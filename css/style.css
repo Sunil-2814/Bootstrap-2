@@ -1,0 +1,9 @@
+body{
+    background-image: url(../images/curve.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: 15%;
+}
+.check{
+    margin-bottom: 30px;
+}
